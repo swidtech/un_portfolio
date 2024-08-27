@@ -2,24 +2,24 @@ import React from 'react';
 
 export default function Profile() {
     return (
-        <div className='profile-container'>
-            <div className='profile-parent'>
-                <div className='profile-details'>
-                    <div className='colz'>
-                        <a href='#'>
-                            <i className='fa fa-facebook-sqaure'></i>                        
+        <div className="profile-container">
+            <div className="profile-parent">
+                <div className="profile-details">
+                    <div className="colz">
+                        <a href="#">
+                            <i className="fa fa-facebook-square"></i>                        
                         </a>
-                        <a href='#'>
-                            <i className='fa fa-google-plus-sqaure'></i>                        
+                        <a href="#">
+                            <i className="fa fa-google-plus-square"></i>                        
                         </a>
-                        <a href='#'>
-                            <i className='fa fa-instagram'></i>                        
+                        <a href="#">
+                            <i className="fa fa-instagram"></i>                        
                         </a>
-                        <a href='#'>
-                            <i className='fa fa-youtube-sqaure'></i>                        
+                        <a href="#">
+                            <i className="fa fa-youtube-square"></i>                        
                         </a>
-                        <a href='#'>
-                            <i className='fa fa-twitter'></i>                        
+                        <a href="#">
+                            <i className="fa fa-twitter"></i>                        
                         </a>
                     </div>
                 </div>
