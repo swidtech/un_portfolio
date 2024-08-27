@@ -40,13 +40,13 @@ export default function Profile() {
                                 steps={{
                                     "Passionate Developer",
                                     1000,
-                                    "Passionate Developer",
+                                    "Software Dev",
                                     1000,
-                                    "Passionate Developer",
+                                    "Frontend Engineer",
                                     1000,
-                                    "Passionate Developer",
+                                    "AI Writer",
                                     1000,
-                                    "Passionate Developer",
+                                    "Informant",
                                     1000,
                                 }}
                                 />
